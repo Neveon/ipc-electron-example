@@ -1,0 +1,14 @@
+{
+  "name": "ipc-electron-example",
+  "version": "1.0.0",
+  "description": "Example of ipc following codevolution video",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil T",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.0"
+  }
+}
